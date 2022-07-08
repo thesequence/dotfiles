@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = qamakarov@gmail.com
+	name = Denis Makarov
